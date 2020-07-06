@@ -1,0 +1,17 @@
+{
+  "name": "nodeapp1",
+  "version": "1.0.0",
+  "description": "this is a sample node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js",
+    "start": "node index.js"
+  },
+  "author": "parul khullar",
+  "license": "ISC",
+  "dependencies": {
+    "fetch": "^1.1.0",
+    "node-fetch": "^2.6.0",
+    "superagent": "^5.3.1"
+  }
+}
